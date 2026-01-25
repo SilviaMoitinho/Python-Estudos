@@ -1,0 +1,1 @@
+from UtilidadesCeV import dados, moeda
